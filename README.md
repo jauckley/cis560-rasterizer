@@ -5,11 +5,11 @@ This project was for a course at the University of Pennsylvania, so the code can
 
 Here are some images to demonstrate the rasterizing of a Mario OBJ file:
 
-This shows Mario rendered with Blinn Phong shading, with the light source placed slightly to the right of the camera-
+This shows Mario rendered using the Blinn Phong reflection model, with the light source placed slightly to the right of the camera-
 ![alt text](https://github.com/jauckley/cis560-rasterizer/blob/master/images/blinn_phong.png)
 
-Here Mario is rendered with iridescent shading-
+Here Mario is rendered with Iridescent shading-
 ![alt text](https://github.com/jauckley/cis560-rasterizer/blob/master/images/iridescent.png)
 
-And here he is with the same shading but in wireframe-
+And here he is with the same reflection model but in wireframe-
 ![alt text](https://github.com/jauckley/cis560-rasterizer/blob/master/images/wireframe.png)
